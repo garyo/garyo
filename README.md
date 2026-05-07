@@ -1,6 +1,6 @@
 # Gary Oberbrunner
 
-Mostly-retired Emmy-winning technology executive and high-performance software developer. 30+ years building graphics, visual effects, and scientific visualization tools. Since retirement, I'm busier than ever, creating open source tools and projects.
+Mostly-retired Emmy-winning technology executive and high-performance software developer. 30+ years building graphics, visual effects, and scientific visualization tools. Since retirement, I'm busier than ever, creating open source tools and projects, and leading [Long Now Boston](https://longnowboston.org).
 
 CEO & founder of [Dark Star Systems](https://darkstarsystems.com), helping scientists turn data into compelling video stories. 
 
